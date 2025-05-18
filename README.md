@@ -96,6 +96,18 @@ This ensures that all visualizations and analyses are based on the most recent v
 
 In this **final step**, I added titles to all the charts, published the dashboard, and exported it as a PDF. This allows me to present the visualizations to others and share insights in a professional format. Exporting to PDF is especially useful for sharing with teams or stakeholders who don’t have access to QuickSight.
 
+### 🏷️ Adding Chart Titles Before Publishing
+
+As a final touch before publishing the dashboard, I updated all chart titles to make them more descriptive. The default titles (e.g., just `release_year`) weren’t very informative. So, I renamed them to clearly communicate the chart's purpose — for example:  
+**“🎬 Movies vs TV Shows by Release Year”**  
+This makes the dashboard more understandable and viewer-friendly.
+
+### 📄 Final Report
+
+You can view the final exported dashboard as a PDF here:  
+[Sheet_2_2025-05-18T07_43_05.pdf](https://github.com/user-attachments/files/20271759/Sheet_2_2025-05-18T07_43_05.pdf)
+
+
 
 
 
