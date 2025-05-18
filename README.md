@@ -3,6 +3,9 @@
 ### Overview
 In this project, I’m exploring how to use Amazon QuickSight to analyze Netflix data and create visual dashboards. The goal is to gain hands-on experience with cloud-based data visualization tools while uncovering trends and insights from the dataset. This project is part of my journey to learn cloud data services for data analysis.
 
+![over view](https://github.com/user-attachments/assets/adb50724-69b8-4c8c-a39a-2d3558ddfd55)
+
+## 🛠️ Project Steps
 ### Uploading Data to S3 for QuickSight:
 
 In this step, I’m setting up an S3 bucket on AWS to store the Netflix data files. I will:
