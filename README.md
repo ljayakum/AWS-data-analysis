@@ -1,4 +1,4 @@
-# AWS-data-analysis
+# From S3 to Storytelling: Visualizing Data with QuickSight
 ## Project Description: Analyzing Netflix Data with Amazon QuickSight
 ### Overview
 In this project, I’m exploring how to use Amazon QuickSight to analyze Netflix data and create visual dashboards. The goal is to gain hands-on experience with cloud-based data visualization tools while uncovering trends and insights from the dataset. This project is part of my journey to learn cloud data services for data analysis.
