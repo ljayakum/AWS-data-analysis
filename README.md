@@ -105,6 +105,18 @@ As a final touch before publishing the dashboard, I updated all chart titles to 
 **“🎬 Movies vs TV Shows by Release Year”**  
 This makes the dashboard more understandable and viewer-friendly.
 
+## 🎓 What I Learned
+
+Throughout this project, I worked with key AWS services such as **Amazon QuickSight** and **Amazon S3**.  
+Some of the important concepts I learned include:
+
+- Working with `manifest.json` files to configure data structure
+- Creating and customizing data visualizations (e.g., bar charts, donut charts)
+- Applying filters and parameters to refine insights
+- Performing cloud-based data analysis using real-world datasets
+
+This project helped strengthen my understanding of cloud data tools and how to build interactive dashboards for meaningful data storytelling.
+
 ### 📄 Final Report
 
 You can view the final exported dashboard as a PDF here:  
