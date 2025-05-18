@@ -77,6 +77,26 @@ In this step, I answered a few questions that the Netflix team might ask to gain
 
 ![q5](https://github.com/user-attachments/assets/580d8660-4cd3-4c4d-8472-55d905aee35c)
 
+### 🔍 Using Filters in QuickSight
+
+Filters are useful for narrowing down the data to a specific subset we want to focus on. In this project, I applied filters to isolate particular genres, release years, or content types (like TV Shows or Movies) 
+to answer targeted business questions and gain clearer insights.
+
+### 🔄 Updating the Dataset in QuickSight
+
+If there are any updates or changes made to the dataset (e.g., new records or corrected values), here's how I reflected those updates in QuickSight:
+
+1. Re-upload the updated dataset to the S3 bucket.
+2. In QuickSight, go to the **Datasets** tab via the top toolbar.
+3. Click on **“Refresh now”** on the left-hand side panel to reload the latest data from the S3 bucket.
+
+This ensures that all visualizations and analyses are based on the most recent version of the dataset.
+
+### ✅ Final Step: Publishing and Sharing the Dashboard
+
+In this **final step**, I added titles to all the charts, published the dashboard, and exported it as a PDF. This allows me to present the visualizations to others and share insights in a professional format. Exporting to PDF is especially useful for sharing with teams or stakeholders who don’t have access to QuickSight.
+
+
 
 
 
