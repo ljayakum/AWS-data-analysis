@@ -105,7 +105,7 @@ As a final touch before publishing the dashboard, I updated all chart titles to 
 **“🎬 Movies vs TV Shows by Release Year”**  
 This makes the dashboard more understandable and viewer-friendly.
 
-## 🎓 What I Learned
+## What I Learned
 
 Throughout this project, I worked with key AWS services such as **Amazon QuickSight** and **Amazon S3**.  
 Some of the important concepts I learned include:
